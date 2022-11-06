@@ -1,11 +1,13 @@
-.App-header {
+.App {
   background-color: #282c34;
+}
+
+.App-header {
   color: white;
   font-size: calc(10px + 2vmin);
 }
 
 .App-footer {
-  background-color: #282c34;
   color: whitesmoke;
 }
 
